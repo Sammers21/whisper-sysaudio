@@ -1,0 +1,11 @@
+[package]
+name = "whisper-sysaudio"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+screencapturekit = "0.3.6"
+core-foundation = "0.10.1"
+core-media-rs = { version = "0.3" }
+hound = "3.5"
+whisper-rs = { path = "./whisper-rs" }
