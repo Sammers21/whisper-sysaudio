@@ -9,3 +9,4 @@ core-foundation = "0.10.1"
 core-media-rs = { version = "0.3" }
 hound = "3.5"
 whisper-rs = { path = "./whisper-rs" }
+ringbuffer = "0.15"
